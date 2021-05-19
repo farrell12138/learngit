@@ -1,1 +1,2 @@
 It is a text file!
+Welcome myGit!!!
